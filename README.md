@@ -5,4 +5,5 @@ Multithreaded SUPER ping - Многопоточный Супер Пинг
 
 Запуск: 
 python3 superping.py 30000 30 10.1.43.2
+
 Подробности в man.txt
